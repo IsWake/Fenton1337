@@ -23,7 +23,7 @@
 
 #  🛠️ 𝙏𝙤𝙤𝙡𝙨  
 
-<img src="https://skillicons.dev/icons?i=dotnet,mac,vscode,linux,pycharm,visualstudio" />
+<img src="https://skillicons.dev/icons?i=dotnet,vscode,linux,pycharm,visualstudio" />
 
 #  ❗ 𝘽𝙚𝙨𝙩 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 ❗
 
